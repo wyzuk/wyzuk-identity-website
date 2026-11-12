@@ -1,0 +1,610 @@
+﻿================================================================================
+WYZUK PERSONAL DATA & VERIFIED DEVELOPER INTELLIGENCE DOSSIER
+================================================================================
+Researched on: October 27, 2026
+Research Target: WYZUK (WYZUK [FULL_NAME_REDACTED])
+Prepared for: Antigravity CLI — Website Project Architecture & Memory Setup
+Scope: Verification of identity, existing websites, GitHub repositories, 
+       real technical projects, skills, contact points, and project plan.
+Constraint Compliance: Strict privacy preservation — No college name investigated 
+                       or published. Zero invented facts. Source cited for every fact.
+================================================================================
+
+
+--------------------------------------------------------------------------------
+A. IDENTITY AND BIOGRAPHY
+--------------------------------------------------------------------------------
+
+1. PRIMARY IDENTIFIERS
+   - Primary Public Identity / Preferred Display Name: WYZUK
+     [Source: Directly provided by user; verified on https://github.com/wyzuk 
+      and https://www.wasee.dev]
+   - Full Legal / Real Name: WYZUK [FULL_NAME_REDACTED]
+     [Source: Directly provided by user; verified on [REDACTED_PREVIOUS_SITE], 
+      https://github.com/nebulavex, and https://jamim.netlify.app]
+   - Other Specified Alias: NVXWX
+     [Source: Directly provided by user]
+   - Additional Discovered Handles & Brand Aliases:
+     * NebulaVex: Used on secondary GitHub profile (https://github.com/nebulavex), 
+       as the author metadata on Vaultrix (https://vaultrix.shop), and in the planned 
+       domain (https://nebulavex.bond).
+     * NebuMiro: Blended moniker (Nebula + Yumemiro) credited as Founder & Lead Developer 
+       on the Yumemiro OS project website (https://yumemiro-os.github.io/about.html).
+     * Wasee: Common short name used as the primary display name on https://wasee.dev 
+       and GitHub profile name on https://github.com/wyzuk.
+     * Jamim: Personal short name used on [REDACTED_PREVIOUS_SITE] and https://jamim.netlify.app.
+
+2. GEOGRAPHIC LOCATION
+   - Country: Bangladesh
+     [Source: Directly provided by user; verified on https://github.com/nebulavex]
+   - City: Rangpur, Bangladesh
+     [Source: Discovered on https://github.com/nebulavex and https://jamim.netlify.app. 
+      Note: wyzuk GitHub profile lists a humorous/stylized location "Jupiter"]
+
+3. ACADEMIC & EDUCATION STATUS
+   - Current Level: Student in Class 11 during the 2026 academic calendar.
+     [Source: Directly provided by user]
+   - College / Institution Name: STRICTLY PROTECTED & UNDISCLOSED. 
+     [User explicit instruction: "I do not want to disclose the name of my college. 
+      Do not investigate or publish the name of my college." Antigravity has maintained 
+      total compliance; no lookup or publishing of educational institutions was attempted.]
+   - Public Stance on Academic Background:
+     Public bio on https://www.wasee.dev and https://github.com/wyzuk explicitly 
+     states: "I am currently a student, but coding is what I'm truly obsessed with. 
+     Programming isn't just a requirement or a major for me—it's my genuine passion, 
+     and I do it purely for the joy of creating things."
+
+4. TECHNICAL INTERESTS & PHILOSOPHY
+   - Core Interests: Coding, software engineering, Linux system architecture, 
+     operating system development, desktop window management (Wayland / Hyprland), 
+     game engine development, client-side streaming, developer utilities, and digital systems.
+     [Source: Directly provided by user; verified on https://wasee.dev and GitHub repositories]
+   - Philosophy: Learns by building real software from scratch. Prefers shipping 
+     practical, lightweight, and aesthetic tools rather than theoretical abstractions.
+
+
+--------------------------------------------------------------------------------
+B. EXISTING WEBSITES
+--------------------------------------------------------------------------------
+
+1. WEBSITE 1: [REDACTED_PREVIOUS_SITE]
+   - Access Status: Fully accessible (HTTP 200 OK).
+   - Technology Stack: Static HTML5, modern CSS3 (glassmorphism, radial aurora glows), 
+     vanilla JavaScript.
+   - Persona & Theme: "The personal operating system of WYZUK [FULL_NAME_REDACTED]" (jamim.os v2.6). 
+     High-aesthetic cyberpunk/operating-system style with animated terminal, interactive 
+     particle canvas, quick command palette (Ctrl+K), and responsive dock navigation.
+   - Verified Content & Claims:
+     * Headline: "WYZUK [FULL_NAME_REDACTED] — DEVELOPER | FOUNDER | BUILDER"
+     * Manifesto: "Young enough to question the rules. Experienced enough to ship without them."
+     * Ticker Roles: Full Stack Developer, Linux Enthusiast, Open Source Contributor, 
+       Startup Founder, AI Explorer, Product Builder, Web Architect, Discord Developer.
+     * Projects Featured:
+       1) Vaultrix Marketplace (https://vaultrix.shop) — Digital commerce platform.
+       2) Discord Commerce System (Links externally to discord.com).
+       3) Linux Customization Suite (Links externally to ubuntu.com).
+       4) Developer Utilities (Links externally to github.com).
+       5) AI Integrations Hub (Links externally to openai.com).
+       6) Portfolio Ecosystem (Links externally to vercel.com).
+     * Capability Graph: Displays connected nodes for Frontend (React, Next.js, TypeScript, Motion), 
+       Backend (Node.js, APIs, Auth, Systems), DevOps (Docker, CI/CD, Cloudflare), 
+       Linux (Arch, Shell, Ricing), Databases (PostgreSQL, Supabase), and AI + Cloud (OpenAI, Vercel, Agents).
+     * Contact Endpoints: Email (onlyjamim@gmail.com), Discord (@1wfj), GitHub (@nebulavex).
+   - Missing Elements & Artifacts:
+     * Links to https://github.com/nebulavex instead of the primary profile https://github.com/wyzuk.
+     * Most project cards link out to generic corporate homepages (openai.com, ubuntu.com, 
+       vercel.com) rather than individual deep project code repositories.
+     * The GitHub commit history grid in the page is procedurally generated via JavaScript 
+       math `(i * 17 + i * i * 3) % 5` rather than live GitHub API data.
+
+2. WEBSITE 2: https://wasee.dev
+   - Access Status: Accessible via HTTP 308 Permanent Redirect to https://www.wasee.dev/ 
+     (Vercel canonical URL). Target returns HTTP 200 OK.
+   - Technology Stack: Single Page Application (SPA) built with React 18, Vite, 
+     Tailwind CSS, Lucide React icons, dark/light theme switcher with anti-FOUC script.
+   - Persona & Theme: Grounded, authentic, developer-first portfolio. Presents Wasee (Wyzuk) 
+     as an authentic student developer and passionate Linux builder.
+   - Verified Content & Claims:
+     * Bio & Introduction: "Hey, I'm Wasee. I also go by Wyzuk online. I am a developer 
+       and a Linux enthusiast. I am currently a student, but coding is what I'm truly 
+       obsessed with. Programming isn't just a requirement or a major for me—it's my genuine 
+       passion, and I do it purely for the joy of creating things."
+     * Verified Real Projects Listed:
+       1) Yumemiro OS (wyzuk/yumemiro-os) — Arch Linux-based distribution.
+       2) Flappy Wyzuk (wyzuk/flappy) — Indie arcade browser game.
+       3) YourCraft (wyzuk/yourcraft) — Procedural 3D voxel sandbox in the browser.
+       4) Snake (wyzuk/snake) — Retro arcade game with level progression.
+       5) Wyzuk Cast (wyzuk/wyzukcast) — Lightweight client-side IPTV player (demo: https://wyzukcast.vercel.app).
+     * Technical Domains:
+       - Linux & Operating Systems (Arch Linux, kernel customization, Hyprland, Yumemiro OS).
+       - Web & Client Applications (React.js, Node.js, TypeScript, HLS.js streaming).
+       - Browser Games & Engines (Pure JavaScript, HTML5 Canvas, Three.js voxel engine).
+       - Discord Bots & Automation (discord.py, discord.js, automation scripts).
+       - Android Apps (Java utility apps for mobile).
+       - Blogging & Technical Writing (Linux discoveries, programming takeaways).
+     * Live GitHub Integration: Queries https://api.github.com/users/wyzuk and 
+       https://api.github.com/users/wyzuk/repos dynamically with static fallback.
+     * Contact Endpoints: Email (onlyjamim@gmail.com), Discord (direct link to user ID 
+       330355220284571649), X / Twitter (https://x.com/w_jamim), GitHub (https://github.com/wyzuk).
+   - Missing Elements & Artifacts:
+     * Does not present the full middle name "[REDACTED]" in the main hero intro.
+     * Omits mention of Vaultrix or commerce systems present on [REDACTED_PREVIOUS_SITE].
+
+3. COMPARATIVE ANALYSIS & RECONCILIATION
+   - Identity Duality: `[REDACTED_PREVIOUS_SITE]` represents an ambitious, OS-themed "Founder / Jamim" 
+     identity linked to the older/secondary GitHub profile `@nebulavex`. In contrast, 
+     `wasee.dev` represents the grounded, authentic technical craftsman "Wasee (Wyzuk)" 
+     linked directly to `@wyzuk` and genuine open-source repositories.
+   - Project Accuracy: `wasee.dev` is vastly superior in technical truthfulness, featuring 
+     direct links to real codebases (Yumemiro OS, Wyzuk Cast, YourCraft, Flappy Wyzuk), 
+     whereas `[REDACTED_PREVIOUS_SITE]` relied partially on conceptual showcases pointing to generic third-party domains.
+   - Contact Discrepancy: `[REDACTED_PREVIOUS_SITE]` lists Discord as `@1wfj`; `wasee.dev` links to Discord 
+     User ID `330355220284571649`; and older site `jamim.netlify.app` listed `4v3h`. All point 
+     to the same individual across Discord username migrations. Email `onlyjamim@gmail.com` 
+     and X handle `@w_jamim` are 100% consistent across all platforms.
+
+4. OTHER DISCOVERED SITES
+   - https://jamim.netlify.app: Older interactive bento portfolio for "WYZUK [FULL_NAME_REDACTED]", 
+     listing location "Rangpur, Bangladesh", student/developer status, earlier experiments 
+     (WFJ Web, Nebula AI, Jamim.tk), and links to Reddit (u/onlyjamim).
+   - https://vaultrix.shop: Live digital marketplace platform for digital goods, subscriptions, 
+     and hosting; explicitly credits "NebulaVex" as author.
+   - https://yumemiro-os.github.io & https://yumemiro-os.vercel.app: Dedicated project showcase 
+     for Yumemiro OS, featuring release logs (Sakura, Hanami, Tsukiyo, Ame), feature breakdowns, 
+     and documentation.
+
+
+--------------------------------------------------------------------------------
+C. GITHUB PROFILES AND REPOSITORIES
+--------------------------------------------------------------------------------
+
+1. PRIMARY DEVELOPER PROFILE
+   - Profile URL: https://github.com/wyzuk
+   - Username: wyzuk
+   - Public Name: Wasee
+   - Bio: "Soy desarrollador y un entusiasta de Linux. Actualmente soy estudiante, pero 
+     estoy obsesionado con la programación. Programar no es mi carrera ni mi profesión..." 
+     (Spanish version of the verified personal bio).
+   - Company / Org Affiliation: @yumemiro-os
+   - Public Repositories: 25
+   - Followers: 580 | Following: 759
+   - Account Creation: 2026-01-22
+
+2. SECONDARY / HISTORICAL PROFILE
+   - Profile URL: https://github.com/nebulavex
+   - Username: nebulavex
+   - Public Name: WYZUK [FULL_NAME_REDACTED]
+   - Bio: "Student..."
+   - Location: "Rangpur, Bangladesh"
+   - Public Repositories: 2 (nebulavex.github.io, ttune-web)
+   - Account Creation: 2025-04-02
+
+3. ASSOCIATED GITHUB ORGANIZATION
+   - Organization URL: https://github.com/yumemiro-os
+   - Organization Name: Yumemiro OS
+   - Description: "Yumemiro OS is a beautiful Arch Linux-based operating system focused 
+     on performance, elegance, and customization. Built for creators, developers, gamers, 
+     and Linux enthusiasts..."
+   - Associated Website: yumemiro-os.github.io
+   - Repositories:
+     * `yumemiro-os/os` — Operating system source, archiso scripts, Calamares configurations.
+     * `yumemiro-os/yumemiro-os.github.io` — Documentation and release showcase website.
+
+4. COMPLETE INVENTORY OF ALL 25 REPOSITORIES (@wyzuk)
+
+   [Operating System & Linux Distributions]
+   - `wyzuk/yumemiro-os`:
+     URL: https://github.com/wyzuk/yumemiro-os
+     Language: Python / Shell / Arch Linux Configs | Stars: 13 | Forks: 2
+     Description: "Yumemiro OS is a beautiful Arch Linux-based operating system focused on 
+     performance, elegance, and customization. Built for creators, developers, gamers, and 
+     Linux enthusiasts, it delivers a polished desktop experience with modern design and 
+     the freedom of Arch Linux."
+     Status: Active primary OS project. Complete configuration suite for Hyprland, Waybar, 
+     Rofi, SDDM, Calamares, Plymouth, and Archiso.
+   - `wyzuk/yumemiro`:
+     URL: https://github.com/wyzuk/yumemiro
+     Status: Empty repository stub reserved for the project.
+
+   [Web Applications & Streaming]
+   - `wyzuk/wyzukcast`:
+     URL: https://github.com/wyzuk/wyzukcast
+     Live Demo: https://wyzukcast.vercel.app
+     Language: Vanilla JavaScript, CSS3, HLS.js | Stars: 5 | Forks: 1
+     Description: "Open-source, lightweight IPTV web player with M3U/M3U8 support, channel 
+     categories, logos, search, and a clean modern UI."
+     Status: Completed, fully functional web streaming application.
+   - `wyzuk/animella`:
+     URL: https://github.com/wyzuk/animella
+     Language: TypeScript, Next.js, Tailwind CSS | Stars: 1 | Forks: 0
+     Description: "ANIME NEWS WEBSITE" / Modern Japanese anime discovery platform featuring 
+     50 iconic anime series, high-res posters, banners, and character galleries.
+     Status: Completed modern media catalog web app.
+
+   [Browser Games & 3D Voxel Engines]
+   - `wyzuk/yourcraft`:
+     URL: https://github.com/wyzuk/yourcraft
+     Live Demo: https://your-craft.netlify.app/
+     Language: JavaScript, Three.js (r128), WebGL | Stars: 9 | Forks: 2
+     Description: "Minecraft game alike" — Procedural 3D voxel sandbox game running in the browser.
+     Status: Completed interactive browser game.
+   - `wyzuk/flappy`:
+     URL: https://github.com/wyzuk/flappy
+     Live Demo: https://flpybrd.netlify.app/
+     Language: JavaScript, HTML5 Canvas 2D, Web Audio API | Stars: 9 | Forks: 0
+     Description: "Flappy Wyzuk is a high-octane, modern indie browser game engineered from 
+     scratch with vanilla web technologies. Featuring glassmorphism aesthetics, futuristic neon UI, 
+     12 customizable bird aviators, 11 dynamic parallax worlds, dynamic weather systems, 
+     Web Audio API procedural synthesis."
+     Status: Completed, polished indie game.
+   - `wyzuk/snake`:
+     URL: https://github.com/wyzuk/snake
+     Language: JavaScript, HTML5 Canvas | Stars: 7 | Forks: 0
+     Description: Modern retro-style Snake arcade game with level progression and obstacles.
+     Status: Completed browser game.
+   - `wyzuk/w`:
+     URL: https://github.com/wyzuk/w
+     Language: Vanilla JavaScript, Three.js, CSS3 | Stars: 5 | Forks: 0
+     Description: "W Suffers" — Fast-paced 3D endless runner web application built with Three.js.
+     Status: Completed 3D browser game.
+
+   [Developer Utilities, Diagnostics & Network Platforms]
+   - `wyzuk/wtools`:
+     URL: https://github.com/wyzuk/wtools
+     Language: TypeScript, Next.js 14 App Router, Tailwind CSS | Stars: 4 | Forks: 0
+     Description: "WTOOLS: A modern, fast, and practical developer utility platform featuring 
+     35+ real network, domain, web, security, geolocation, phone, and developer tools."
+     Status: Production-grade developer toolkit.
+   - `wyzuk/nexus`:
+     URL: https://github.com/wyzuk/nexus
+     Language: Python 3.11+, Next.js 14.2, FastAPI, Docker | Stars: 2 | Forks: 0
+     Description: "NEXUS: Local Network Intelligence & Defensive Operations Platform. Provides 
+     automated local network discovery, hierarchical topology mapping, TCP port inspection, 
+     and latency monitoring."
+     Status: Advanced architectural network monitoring system.
+   - `wyzuk/ttune`:
+     URL: https://github.com/wyzuk/ttune
+     Language: Python 3.9+, FFmpeg, Curses | Stars: 5 | Forks: 0
+     Description: "ttune: Terminal music player with a real-time RGB spectrum visualizer supporting 
+     both audio and video playback across all major media formats."
+     Status: Fully functional terminal utility.
+   - `wyzuk/ttune-web`:
+     URL: https://github.com/wyzuk/ttune-web
+     Language: JavaScript | Stars: 0 | Forks: 1
+     Description: "Listen music of Bangla Cinema" — Web frontend player for Bengali film soundtrack streams.
+     Status: Specialized cultural web audio streaming project.
+
+   [Discord Bots & Digital Commerce Automation]
+   - `wyzuk/vlt`:
+     URL: https://github.com/wyzuk/vlt
+     Language: Python, discord.py | Stars: 5 | Forks: 1
+     Description: "Discord Shop Management Bot" — Modular Discord bot using Discord Components V2, 
+     featuring automated moderation, giveaways, audit logs, and interactive shop panels.
+     Status: Completed bot linked to the Vaultrix ecosystem.
+   - `wyzuk/shop`:
+     URL: https://github.com/wyzuk/shop
+     Language: Python | Stars: 4 | Forks: 0
+     Description: Python-based shop automation utility.
+   - `wyzuk/host`:
+     URL: https://github.com/wyzuk/host
+     Language: Python | Stars: 4 | Forks: 0
+     Description: Bot hosting / Discord bot server utility.
+   - `wyzuk/nebula`:
+     URL: https://github.com/wyzuk/nebula
+     Language: Python | Stars: 4 | Forks: 0
+     Description: Discord bot with modular cogs architecture.
+   - `wyzuk/nebula-bot`:
+     URL: https://github.com/wyzuk/nebula-bot
+     Language: Python | Stars: 4 | Forks: 0
+     Description: Python Discord automation bot.
+   - `wyzuk/nebula-os`:
+     URL: https://github.com/wyzuk/nebula-os
+     Language: Python | Stars: 4 | Forks: 0
+     Description: Discord utility and server management bot.
+
+   [Experiments, Notes & Simulation Tools]
+   - `wyzuk/iplnchr`:
+     URL: https://github.com/wyzuk/iplnchr
+     Language: JavaScript, CSS3, HTML5 | Stars: 4 | Forks: 0
+     Description: "A high-fidelity interactive iPhone simulator for the web, inspired by iOS 26."
+     Status: Interactive UI simulation experiment.
+   - `wyzuk/ixnit`:
+     URL: https://github.com/wyzuk/ixnit
+     Language: JavaScript, Markdown | Stars: 4 | Forks: 0
+     Description: "Ixnit: Personal coding notebook, experiment sandbox, and developer knowledge base."
+     Status: Personal reference repository.
+   - `wyzuk/idk`:
+     URL: https://github.com/wyzuk/idk
+     Language: HTML5, Vanilla JavaScript | Stars: 5 | Forks: 0
+     Description: "VOID: A tiny experimental web project built around a fictional digital fortune machine."
+     Status: Creative experimental web widget.
+   - `wyzuk/portfolio` & `wyzuk/wyzuk.github.io`:
+     URL: https://github.com/wyzuk/portfolio | https://github.com/wyzuk/wyzuk.github.io
+     Language: TypeScript / CSS | Stars: 5 / 4
+     Description: Previous portfolio iterations and GitHub Pages host.
+   - `wyzuk/wyzuk`:
+     URL: https://github.com/wyzuk/wyzuk
+     Description: Special GitHub profile repository containing anime banner asset.
+   - `wyzuk/blah`:
+     URL: https://github.com/wyzuk/blah
+     Status: Minimal placeholder / testing repository (6 bytes).
+
+
+--------------------------------------------------------------------------------
+D. PROJECTS (DETAILED & VERIFIED BREAKDOWN)
+--------------------------------------------------------------------------------
+
+1. PROJECT: YUMEMIRO OS (THE ARCH LINUX OPERATING SYSTEM)
+   - Verification of Official Public Name:
+     * User Inquiry: The user requested verification between "UmeMiru" and "YUMERO".
+     * Verified Resolution: The official public project name is strictly "Yumemiro OS" 
+       (Japanese Kanji: 夢見ろ, meaning "Dream On").
+     * Neither "UmeMiru" nor "YUMERO" is used on GitHub or live documentation. All public 
+       repositories, organization names, and domains use `yumemiro-os`:
+       - GitHub Organization: https://github.com/yumemiro-os
+       - GitHub Code Repo: https://github.com/wyzuk/yumemiro-os
+       - GitHub Mirror: https://github.com/yumemiro-os/os
+       - Official Site: https://yumemiro-os.github.io and https://yumemiro-os.vercel.app
+   - Project Purpose: An elegant, lightweight, out-of-the-box desktop distribution based on 
+     Arch Linux, powered by the Hyprland Wayland compositor. Designed to bridge the gap 
+     between Arch Linux's KISS (Keep It Simple, Stupid) performance and a curated pastel aesthetic.
+   - Technical Architecture & Components:
+     * Window Manager / Compositor: Hyprland (Wayland native) with smooth cubic animations.
+     * Status Bar: Waybar 0.10 with custom pastel modules, popover calendar, and volume controls.
+     * Application Launcher: Rofi with custom pastel theme menus.
+     * Display Manager / Login: SDDM with frosted glassmorphism visual theme.
+     * Installer: Calamares automated graphical installer integration (`create_calamares_dirs.py`).
+     * ISO Generation: Archiso scripts (`inspect_iso.ps1`, `extract_base_pkglist.ps1`).
+     * Terminal: Kitty terminal pre-configured with custom color schemes.
+     * Control Center: Custom Yumemiro Control Center for graphical accent switching and display options.
+     * Resource Footprint: Sub-650MB RAM usage at idle.
+   - Releases & Real Status [Needs Verification / Clarification]:
+     * Website showcases versions: 1.0 Sakura, 1.1 Hanami, 1.5 Tsukiyo, and 2.0 Ame (Kernel 6.10, Hyprland 0.42).
+     * Inspection of `download.html` source reveals that direct download buttons trigger 
+       JavaScript simulation alerts (`alert('Starting download simulation for Yumemiro OS ISO...')`) 
+       and the published SHA256 checksum is the standard empty-string hash `e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855`.
+     * Verdict: The desktop configuration suite, Hyprland setup, dotfiles, Calamares scripts, 
+       and archiso configurations are genuine and substantial; however, globally distributed 
+       pre-compiled ISO mirrors appear to be a concept showcase rather than active binary CDN downloads.
+
+2. PROJECT: WYZUK CAST (IPTV WEB STREAMING PLAYER)
+   - Public Repository: https://github.com/wyzuk/wyzukcast
+   - Live Production Deployment: https://wyzukcast.vercel.app
+   - Purpose: High-performance, client-side IPTV streaming web player.
+   - Core Features:
+     * Live M3U / M3U8 playlist streaming via HLS.js.
+     * Dynamic client-side category filtering (Entertainment, News, Sports, Movies, Kids).
+     * Instant search by channel name or broadcast ID.
+     * Channel logos and fallback stream handling.
+     * Native Picture-in-Picture (PiP) and full-screen video player modes.
+     * Clean, modern dark-mode responsive UI.
+   - Technologies: Vanilla JavaScript, HLS.js, HTML5 Video API, CSS3.
+
+3. PROJECT: YOURCRAFT (3D PROCEDURAL BROWSER VOXEL SANDBOX)
+   - Public Repository: https://github.com/wyzuk/yourcraft
+   - Live Production Deployment: https://your-craft.netlify.app/
+   - Purpose: Procedural voxel sandbox game running natively in web browsers without plugins.
+   - Core Features:
+     * Voxel-based terrain generation and rendering.
+     * Dynamic block placement, breaking, and inventory interactions.
+     * First-person perspective with mouse-look pointer lock and collision physics.
+     * Optimized WebGL rendering achieving steady 60 FPS performance.
+   - Technologies: JavaScript, Three.js (r128), WebGL, HTML5 Canvas.
+
+4. PROJECT: FLAPPY WYZUK (INDIE ARCADE BROWSER GAME)
+   - Public Repository: https://github.com/wyzuk/flappy
+   - Live Production Deployment: https://flpybrd.netlify.app/
+   - Purpose: Re-imagined, high-polish neon arcade game engineered from scratch.
+   - Core Features:
+     * 12 distinct unlockable bird aviator characters.
+     * 11 multi-layer parallax scrolling background worlds.
+     * Procedural dynamic weather effects (rain, neon particles, day/night cycles).
+     * Custom sound design powered entirely by the Web Audio API (procedural audio synthesizer).
+     * Responsive touch, keyboard, and mouse controls maintaining 60+ FPS.
+   - Technologies: HTML5 Canvas 2D, Vanilla JavaScript, Web Audio API, CSS3 glassmorphism.
+
+5. PROJECT: W SUFFERS (3D ENDLESS RUNNER)
+   - Public Repository: https://github.com/wyzuk/w
+   - Purpose: Fast-paced 3D urban endless runner game.
+   - Core Features:
+     * Procedurally generated 3D city obstacles, barriers, and hazard gantries.
+     * Real-time lane switching, jump, and slide mechanics.
+     * Collectible gold and W-coins with power-up activation.
+   - Technologies: Vanilla JavaScript (ES Modules), Three.js, CSS3, WebGL.
+
+6. PROJECT: WTOOLS (DEVELOPER DIAGNOSTIC PLATFORM)
+   - Public Repository: https://github.com/wyzuk/wtools
+   - Purpose: Centralized web developer utility platform with 35+ diagnostic tools.
+   - Core Features:
+     * 35+ utilities across DNS, IP geolocation, SSL diagnostics, HTTP header analyzers, 
+       regex testers, UUID generators, color format converters, and security probes.
+     * Instant command palette navigation (Cmd+K / Ctrl+K).
+     * Client-side and edge execution preserving zero-logging user privacy.
+     * System-synchronized dark and light mode themes.
+   - Technologies: Next.js 14 (App Router), TypeScript, Tailwind CSS, Vercel Edge.
+
+7. PROJECT: NEXUS (LOCAL NETWORK INTELLIGENCE PLATFORM)
+   - Public Repository: https://github.com/wyzuk/nexus
+   - Purpose: Defensive network monitoring and topology platform for home labs and system administrators.
+   - Core Features:
+     * Automated local subnet device discovery and ARP/ping sweeps.
+     * Hierarchical network topology visualization.
+     * Safe TCP port scanning and service banner inspection.
+     * Real-time latency tracking and automated alert events.
+     * Defensive security posture (designed for user-authorized networks).
+   - Technologies: Python 3.11+, Next.js 14.2, FastAPI, Docker, WebSockets.
+
+8. PROJECT: TTUNE (TERMINAL RGB MUSIC & VIDEO PLAYER)
+   - Public Repository: https://github.com/wyzuk/ttune
+   - Purpose: Rich terminal-based multimedia player with real-time RGB audio visualization.
+   - Core Features:
+     * Real-time dynamic RGB frequency spectrum visualizer in the terminal.
+     * Support for extensive audio/video formats: MP3, MP4, WAV, FLAC, AAC, M4A, OGG, OPUS, 
+       WMA, AIFF, ALAC, APE, AC3, MKV, WebM, AVI, MOV, WMV, FLV, M4V, TS.
+     * Terminal UI with interactive keybindings for track queue, volume, and playback speed.
+   - Technologies: Python 3.9+, FFmpeg, Curses.
+
+9. PROJECT: ANIMELLA (ANIME DISCOVERY & MEDIA CATALOG)
+   - Public Repository: https://github.com/wyzuk/animella
+   - Purpose: Modern Japanese anime discovery web platform with rich metadata.
+   - Core Features:
+     * Curated catalog of 50 iconic anime titles with comprehensive synopsis and metadata.
+     * Rich local asset directory: 50 high-resolution posters, 50 cinematic banners, 
+       and 296 character portraits.
+     * Cinematic trailer modal, dark aesthetic, and interactive hero showcase.
+   - Technologies: Next.js, TypeScript, Tailwind CSS.
+
+10. PROJECT: VAULTRIX MARKETPLACE & DISCORD COMMERCE BOT
+    - Live Website: https://vaultrix.shop
+    - Bot Repository: https://github.com/wyzuk/vlt (and related https://github.com/wyzuk/shop)
+    - Purpose: Digital commerce storefront and automated Discord server fulfillment bot.
+    - Core Features:
+      * Automated digital product delivery and balance tracking.
+      * Interactive Discord Components V2 panels, buttons, and select menus.
+      * Automated moderation, audit logging, and giveaway engine.
+    - Technologies: Python, discord.py, Discord Components V2, Modern Web Frontend.
+
+
+--------------------------------------------------------------------------------
+E. TECHNOLOGIES AND INTERESTS
+--------------------------------------------------------------------------------
+
+1. PROGRAMMING LANGUAGES
+   - Fully Verified in Public Code:
+     * Python (Discord bots, NEXUS backend, ttune terminal player, Yumemiro scripts)
+     * JavaScript / ES6+ (YourCraft, Flappy Wyzuk, Wyzuk Cast, W Suffers, Snake)
+     * TypeScript (WTOOLS, Animella, modern Next.js applications)
+     * HTML5 & Modern CSS3 (Canvas 2D, glassmorphism, responsive UI across all web projects)
+     * Shell / Bash (Arch Linux system scripts, Archiso packaging, Linux desktop setups)
+   - Verified via Public Developer Dossier:
+     * Java (Android mobile utility applications noted on wasee.dev)
+
+2. FRONTEND FRAMEWORKS & GRAPHICS LIBRARIES
+   - React.js / Next.js (Used in wasee.dev, WTOOLS, NEXUS frontend, Animella)
+   - Three.js / WebGL (Procedural 3D engine in YourCraft and W Suffers)
+   - HTML5 Canvas 2D & Web Audio API (Physics and procedural audio synthesis in Flappy Wyzuk)
+   - Tailwind CSS (Primary utility-first styling system across modern projects)
+   - HLS.js (HTTP Live Streaming engine used in Wyzuk Cast)
+
+3. BACKEND, APIS & NETWORKING
+   - FastAPI (Python REST & WebSocket API framework in NEXUS)
+   - Node.js (Runtime for frontend build pipelines and web applications)
+   - discord.py / Discord API (Automated bots, component panels, and commerce bots)
+   - RESTful APIs & WebSocket streaming protocols
+
+4. SYSTEMS, LINUX & DEVOPS
+   - Arch Linux (Primary operating system, distribution development, and daily driver)
+   - Hyprland (Wayland tiling compositor, custom animations, window rules)
+   - Waybar, Rofi, Kitty, SDDM (Desktop environment components and shell theming)
+   - Linux Kernel & Systemd (Configuration and optimization for Yumemiro OS)
+   - Docker & Containerization (Container deployment for NEXUS platform)
+   - Git & GitHub (Public version control, CI/CD workflows, open-source releases)
+   - Vercel & Netlify (Cloud static generation and edge deployments)
+
+5. GENERAL TECHNICAL INTERESTS
+   - Operating system architecture and live ISO mastering.
+   - Procedural generation algorithms (3D voxels, endless runners, noise functions).
+   - Defensive network monitoring and home lab intelligence.
+   - Low-latency media streaming and audio synthesis.
+   - High-craft, motion-heavy, accessible web design.
+
+
+--------------------------------------------------------------------------------
+F. PUBLIC LINKS AND CONTACT POINTS
+--------------------------------------------------------------------------------
+
+1. PRIMARY DEVELOPER PROFILES & PLATFORMS
+   - GitHub (Primary): https://github.com/wyzuk
+   - GitHub (Secondary / Historical): https://github.com/nebulavex
+   - GitHub Organization: https://github.com/yumemiro-os
+   - X / Twitter: https://x.com/w_jamim (Handle: @w_jamim)
+   - Discord: Direct User Profile ID 330355220284571649 (Handles observed: @1wfj, 4v3h)
+   - Reddit: https://reddit.com/u/onlyjamim (Username: u/onlyjamim)
+   - Direct Email: onlyjamim@gmail.com
+
+2. VERIFIED WEBSITES & LIVE DEPLOYMENTS
+   - Portfolio 1: [REDACTED_PREVIOUS_SITE]
+   - Portfolio 2: https://wasee.dev (canonical: https://www.wasee.dev/)
+   - Portfolio 3 (Legacy): https://jamim.netlify.app
+   - Planned Primary Domain: https://nebulavex.bond
+   - Yumemiro OS Official Site: https://yumemiro-os.github.io / https://yumemiro-os.vercel.app
+   - Wyzuk Cast Web App: https://wyzukcast.vercel.app
+   - YourCraft Web Game: https://your-craft.netlify.app/
+   - Flappy Wyzuk Web Game: https://flpybrd.netlify.app/
+   - Vaultrix Storefront: https://vaultrix.shop
+
+
+--------------------------------------------------------------------------------
+G. SOURCE LOG AND CONFIDENCE AUDIT
+--------------------------------------------------------------------------------
+
+1. AUDIT OF RESEARCHED SOURCES (Conducted October 27, 2026)
+   - URL: [REDACTED_PREVIOUS_SITE]
+     Status: 200 OK | Confidence: HIGH | Findings: Biography, ticker roles, skills map, 
+     email, Discord @1wfj, link to github.com/nebulavex.
+   - URL: https://wasee.dev
+     Status: 308 Permanent Redirect to https://www.wasee.dev/ | Confidence: HIGH | 
+     Findings: Primary developer bio, student status, projects array, tech stack, 
+     X @w_jamim, Discord ID 330355220284571649, GitHub @wyzuk.
+   - URL: https://api.github.com/users/wyzuk
+     Status: 200 OK | Confidence: HIGH | Findings: Profile data, company @yumemiro-os, 
+     25 repos, 580 followers.
+   - URL: https://api.github.com/users/wyzuk/repos?per_page=100
+     Status: 200 OK | Confidence: HIGH | Findings: Complete repository metadata, 
+     star counts, descriptions, languages.
+   - URL: https://api.github.com/users/nebulavex
+     Status: 200 OK | Confidence: HIGH | Findings: Name "WYZUK [FULL_NAME_REDACTED]", 
+     location "Rangpur, Bangladesh", link to jamim.netlify.app.
+   - URL: https://api.github.com/orgs/yumemiro-os
+     Status: 200 OK | Confidence: HIGH | Findings: Organization confirming "Yumemiro OS" name.
+   - URL: https://yumemiro-os.github.io (and subpages about, features, releases, download)
+     Status: 200 OK | Confidence: HIGH | Findings: Official OS naming, Hyprland desktop features, 
+     release timeline, simulated download scripts.
+   - URL: https://vaultrix.shop
+     Status: 200 OK | Confidence: HIGH | Findings: Live digital commerce shop, author NebulaVex.
+   - URL: https://jamim.netlify.app
+     Status: 200 OK | Confidence: HIGH | Findings: Previous bento site, Discord 4v3h, Reddit u/onlyjamim.
+   - URLs: https://wyzukcast.vercel.app, https://flpybrd.netlify.app/, https://your-craft.netlify.app/
+     Status: 200 OK | Confidence: HIGH | Findings: Live, working web applications and games.
+   - URL: https://nebulavex.bond
+     Status: INACCESSIBLE OVER HTTPS | DNS IP: 159.203.143.218 (DigitalOcean) | 
+     Confidence: HIGH on DNS resolution, but HTTPS fails due to SSL/TLS handshake closure. 
+     Accurately logged as not reachable over HTTPS at time of research.
+   - Local Workspace Directory: assets/gallery/
+     Status: ACCESSIBLE & VERIFIED | Confidence: HIGH | Findings: Discovered 11 real image assets:
+     10 PNG images (1254x1254, ranging from 1.32 MB to 3.15 MB) and 1 WebP image (168 KB). 
+     Ready for automated discovery pipeline during static site generation.
+
+2. ITEMS FLAGGED AS "NEEDS VERIFICATION"
+   - Yumemiro OS ISO Distribution: While the desktop configuration files, archiso build 
+     scripts, and Calamares installer directories in `wyzuk/yumemiro-os` and `yumemiro-os/os` 
+     are authentic, the binary ISO download mirrors on the website trigger simulated alert popups 
+     and reference empty-string SHA256 hashes. Pre-built ISO availability is flagged as 
+     "Needs verification / Concept stage".
+   - Educational Institution: The name of the college is intentionally undisclosed and 
+     unverified per user instruction.
+
+
+--------------------------------------------------------------------------------
+H. SHORT BIOGRAPHY DRAFTS
+--------------------------------------------------------------------------------
+
+1. ONE-SENTENCE BIO
+"WYZUK (WYZUK [FULL_NAME_REDACTED]) is a Bangladesh-based student developer and Linux enthusiast who builds handcrafted web applications, browser game engines, developer utilities, and custom operating system environments."
+
+2. SHORT PARAGRAPH BIO
+"WYZUK (also known as WYZUK [FULL_NAME_REDACTED] and NVXWX) is a class 11 student and developer from Bangladesh with a deep passion for Linux and software development. Driven by the joy of understanding how digital systems work under the hood, he builds real-world projects ranging from Yumemiro OS (an aesthetic Arch Linux desktop environment) to browser-based 3D voxel sandboxes, client-side streaming platforms, and high-productivity developer tools. He codes purely for the craft and shares his open-source work across GitHub and the web."
+
+3. LONGER ABOUT-PAGE BIOGRAPHY
+"Hey, I'm WYZUK [FULL_NAME_REDACTED], known publicly as WYZUK (and online as NVXWX or NebulaVex). I'm a student in class 11 from Bangladesh with an obsession for software development, operating systems, and building digital tools that actually matter.
+
+For me, programming isn't just an academic subject or a career checkbox—it's a hands-on craft. I believe the best way to master technology is by building things from the ground up: understanding how the Linux kernel talks to Wayland compositors, how voxel engines render procedural 3D worlds at 60 frames per second, and how lightweight streaming web applications can deliver content without bloated servers.
+
+Over the past few years, I have architected and shipped a diverse ecosystem of digital projects. My major works include Yumemiro OS—a handcrafted, aesthetic Arch Linux distribution powered by Hyprland; Wyzuk Cast—a client-side IPTV player; YourCraft—a 3D voxel sandbox running in the browser; and WTOOLS—a comprehensive suite of developer diagnostics. Across languages like Python, JavaScript, TypeScript, Java, and Shell, I build with attention to speed, visual aesthetics, and zero unnecessary fluff.
+
+When I'm not tweaking Hyprland configurations or writing code after midnight, I write technical blogs, experiment with local network intelligence, and collaborate with developers across the open-source community."
+
+================================================================================
+END OF WYZUK_PERSONAL_DATA.TXT
+================================================================================
+

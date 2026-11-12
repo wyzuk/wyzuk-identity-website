@@ -1,0 +1,220 @@
+﻿================================================================================
+WYZUK PERSONAL WEBSITE — MASTER ARCHITECTURE & PROJECT EXECUTION PLAN
+================================================================================
+Target Domain: https://nebulavex.bond
+Primary Identity: WYZUK (WYZUK [FULL_NAME_REDACTED])
+Aliases: NVXWX, NebulaVex
+Preserved For: Antigravity CLI Implementation Tasks
+Status: Planning & Memory Setup Complete — Ready for Next Implementation Prompt
+================================================================================
+
+
+1. PROJECT MISSION & OBJECTIVE
+--------------------------------------------------------------------------------
+Build a handcrafted, distinctive, heavily animated personal identity website for 
+WYZUK at https://nebulavex.bond.
+
+The website's primary function is to establish a definitive, authoritative digital 
+identity for WYZUK, clearly connecting his verified aliases (NVXWX, NebulaVex), 
+presenting his authentic developer journey as a student and Linux enthusiast, 
+showcasing his real projects (operating systems, web games, utilities, bots), and 
+providing search engines and users with a genuine, indexable public presence.
+
+Crucial Distinction:
+This site is NOT a generic AI-generated template or corporate agency portfolio. 
+It must reflect the handcrafted, technical aesthetic of an authentic system builder, 
+grounded entirely in verified facts without exaggeration.
+
+
+2. DESIGN DIRECTION & VISUAL LANGUAGE
+--------------------------------------------------------------------------------
+- Foundational Palette: Deep navy and obsidian background (#06080F / #0A0D18 / #0F172A), 
+  providing rich depth and contrast.
+- Primary Accent: Restrained, vibrant electric blue (#00D2FF / #2563EB / #38BDF8), 
+  used purposefully for focal points, interactive highlights, and subtle atmospheric glows.
+- Secondary Accents: Subtle violet/cyan accents derived from Yumemiro OS and Hyprland themes.
+- Typography: Refined, high-contrast typography pairing modern geometric sans-serifs 
+  (Inter / Geist Sans) with crisp monospaced code fonts (JetBrains Mono / Geist Mono).
+- Spatial Design: Thoughtful asymmetry, modular grid layouts, fine 1px translucent borders 
+  (rgba(255, 255, 255, 0.08)), frosted glass backdrops, and high breathing room.
+- Animation & Motion Principles:
+  * Motion must be expressive, tactile, and silky smooth (60+ FPS).
+  * Animations enhance storytelling: magnetic buttons, smooth section reveals, 
+    interactive card tilts, subtle glow tracking, and route transitions.
+  * Motion must NEVER degrade performance, cause jank, or impede navigation.
+  * Accessibility: Strict adherence to `prefers-reduced-motion: reduce`. When reduced 
+    motion is requested, all intensive transforms, particle loops, and animations must 
+    immediately fall back to clean, instant, accessible state changes.
+- Anti-Patterns (STRICTLY PROHIBITED):
+  * NO fake status badges or invented metrics (e.g. no "100+ clients served", "99.9% uptime").
+  * NO fake terminal sessions pretending to compile or hack.
+  * NO fake GitHub contribution charts generated from random math formulas.
+  * NO repetitive, generic card layouts with placeholder lorem ipsum.
+  * NO unnecessary corporate AI chatbots or buzzword integrations.
+
+
+3. CORE INFORMATION ARCHITECTURE & ROUTE MAP
+--------------------------------------------------------------------------------
+The website will feature a comprehensive, deeply structured URL hierarchy with 
+canonical URLs pointing to https://nebulavex.bond.
+
+A. PRIMARY HUBS & IDENTIFIERS
+   - `/` (Home): Cinematic introduction to WYZUK, primary identity statement, 
+     verified featured projects, live GitHub signal, and interactive showcase.
+   - `/about` (About): In-depth biographical narrative of WYZUK [FULL_NAME_REDACTED], 
+     builder philosophy, personal development journey from first lines of code to OS builds.
+   - `/identity` (Identity & Aliases): Clear canonical index explaining the relationship 
+     between WYZUK, WYZUK [FULL_NAME_REDACTED], NVXWX, and NebulaVex, linking to verified profiles.
+   - `/education` (Education): Respectful documentation of academic status as a Class 11 
+     student in 2026, self-taught computer science studies, and Linux systems exploration 
+     (Strictly omitting the name of his college).
+   - `/interests` (Interests & Passions): Deep dive into Linux desktop architecture, 
+     Wayland compositors, voxel graphics algorithms, audio synthesis, and digital tools.
+
+B. PROJECTS ARCHITECTURE
+   - `/projects` (Projects Index): Filterable, searchable hub of all verified software, 
+     categorized by systems, web apps, games, utilities, and bots.
+   - Dedicated Project Detail Pages (Each containing architecture diagrams, tech breakdown, 
+     screenshots/visuals, source links, and live demos):
+     * `/projects/yumemiro-os` — Arch Linux distribution, Hyprland desktop, dotfiles, Calamares.
+     * `/projects/wyzukcast` — Lightweight client-side IPTV streaming player & HLS.js engine.
+     * `/projects/yourcraft` — Browser-based 3D procedural voxel sandbox engine.
+     * `/projects/flappy-wyzuk` — Indie arcade browser game with Web Audio API synthesis.
+     * `/projects/w-suffers` — 3D endless runner game built with Three.js.
+     * `/projects/wtools` — 35+ diagnostic web, network, and security developer tools.
+     * `/projects/nexus` — Local network intelligence & defensive topology platform.
+     * `/projects/ttune` — Terminal RGB visualizer music and video player.
+     * `/projects/animella` — Anime discovery platform with media catalog and character guide.
+     * `/projects/vaultrix-shop` — Digital commerce platform and automated Discord fulfillment bot.
+     * `/projects/iplnchr` — Interactive web-based iOS simulator.
+     * `/projects/ixnit` — Developer coding notebook and experimental sandbox.
+
+C. DOMAIN SPECIALIZATIONS
+   - `/os` (Operating System Work): Dedicated section focused on Linux kernel configurations, 
+     Hyprland rice, Waybar styling, SDDM themes, and Archiso creation.
+   - `/open-source` (Open Source & GitHub): Live synchronization with GitHub (@wyzuk), 
+     genuine repository listing, stargazers, forks, and contribution philosophy.
+   - `/software` (Software & Utilities): Focus on developer CLI tools, scripts, and utilities.
+   - `/games` (Browser Games): Interactive web gaming hub featuring direct play links for 
+     YourCraft, Flappy Wyzuk, W Suffers, and Snake.
+
+D. VISUALS, HARDWARE & UTILITY PAGES
+   - `/gallery` (Media & Desktop Showcase): Dynamic, responsive image gallery automatically 
+     populated from local assets (Hyprland rices, UI screenshots, mockups, terminal setups).
+   - `/uses` (Uses & Setup): Genuine hardware, Linux distributions, software tools, 
+     code editors (Neovim / VS Code), terminal (Kitty), and developer environment.
+   - `/colophon` (Colophon): Technical specifications of https://nebulavex.bond itself—framework, 
+     typography, hosting, performance metrics, and design credits.
+   - `/privacy` (Privacy Policy): Clear, concise privacy policy affirming zero trackers, 
+     zero telemetry, and edge execution.
+   - `/contact` (Contact & Verification): Direct contact channels—Email (onlyjamim@gmail.com), 
+     Discord (User ID 330355220284571649), X / Twitter (@w_jamim), and verified public keys.
+   - `404` (Custom Not Found): Handcrafted, interactive 404 page with quick navigation back home.
+
+
+4. DYNAMIC GALLERY AUTOMATION SYSTEM
+--------------------------------------------------------------------------------
+- Verified Local Asset Inventory:
+  * Local directory `assets/gallery/` contains 11 verified image assets:
+    1) `1113b573-f886-48f0-a5c3-eb8a6d913945.png` (1254x1254, 1.32 MB)
+    2) `16a430b6-240e-4b95-ba8c-c9165af02aea.png` (1254x1254, 2.00 MB)
+    3) `20ed65d3-ee33-443b-9e0e-8519521ef317.png` (1254x1254, 2.15 MB)
+    4) `3b480c24-8922-4341-b43e-adede1958932.png` (1254x1254, 1.83 MB)
+    5) `40eb2f8f-58f6-4a0d-87d9-7a243512b703.png` (1254x1254, 2.01 MB)
+    6) `48f936cc-9657-40d7-bde9-05bdbf22ca1c.png` (1254x1254, 2.41 MB)
+    7) `6eb8e095-a0fa-45d9-8d0f-ccd1784dfa8a.png` (1254x1254, 2.12 MB)
+    8) `ab9dff62-d565-4623-bf8f-2bf123db05e7.png` (1254x1254, 2.21 MB)
+    9) `b52ee543-b921-49d0-bd01-6908e4c3dd83.png` (1254x1254, 3.15 MB)
+    10) `fb45f857-46e3-4d2f-a3fd-ff1d34167be5.png` (1254x1254, 2.23 MB)
+    11) `image (1).webp` (168 KB)
+- Directory Architecture:
+  * Root Asset Directory: `assets/`
+  * Gallery Directory: `assets/gallery/`
+  * Subdirectories for organization: `assets/gallery/os/`, `assets/gallery/games/`, `assets/gallery/ui/`
+- Build-Time Discovery:
+  * Implementation of a server-side build script / Node.js utility that recursively traverses 
+    `assets/gallery/` at compile time.
+  * Supported Formats: `.webp`, `.png`, `.jpg`, `.jpeg`, `.gif`, `.svg`, `.jfif`.
+  * Auto-generation of image manifest (filename, dimensions, inferred title, category, format).
+  * Accessible alt-text generation based on clean metadata and folder context.
+- Zero Hardcoding Principle:
+  * Adding an image to `assets/gallery/` before running `npm run build` will automatically 
+    include it in the gallery without manually modifying code files.
+- Deployment Note:
+  * Because the site is statically generated for optimal SEO and speed, adding new assets 
+    locally requires rebuilding and redeploying the site to publish them to the live web.
+
+
+5. SEO ENGINE, STRUCTURED DATA & GOOGLE DISCOVERY
+--------------------------------------------------------------------------------
+- Canonical URL Enforcement:
+  * Primary Canonical Host: `https://nebulavex.bond`
+  * Every page must output `<link rel="canonical" href="https://nebulavex.bond/[path]">`.
+- Meta Tags & Open Graph:
+  * Unique, descriptive `<title>` tags for every route (e.g., "Yumemiro OS — Arch Linux Distribution | WYZUK").
+  * Handcrafted, non-repetitive `<meta name="description">` tags summarizing actual content.
+  * Open Graph and Twitter Card tags with rich previews and canonical images.
+- Structured Data (JSON-LD):
+  * `Person` schema:
+    - Name: WYZUK [FULL_NAME_REDACTED]
+    - Alternate Names: ["WYZUK", "NVXWX", "NebulaVex", "Wasee"]
+    - URL: https://nebulavex.bond
+    - SameAs:
+      * https://github.com/wyzuk
+      * https://github.com/nebulavex
+      * https://x.com/w_jamim
+      * [REDACTED_PREVIOUS_SITE]
+      * https://wasee.dev
+      * https://reddit.com/u/onlyjamim
+    - JobTitle: Student & Software Developer
+    - Nationality: Bangladesh
+  * `WebSite` schema:
+    - Name: WYZUK Digital Identity
+    - URL: https://nebulavex.bond
+  * `ProfilePage` schema for author/profile routes.
+  * `BreadcrumbList` schema for all hierarchical routes (`/projects`, `/projects/[slug]`).
+  * `SoftwareApplication` schema for projects like Yumemiro OS, Wyzuk Cast, and WTOOLS.
+- Sitemap & Robots:
+  * Dynamic, automated generation of a valid `sitemap.xml` including only genuine, indexable URLs.
+  * Clean `robots.txt` granting search engine access and explicitly declaring `Sitemap: https://nebulavex.bond/sitemap.xml`.
+  * Quality over quantity: Real, useful pages only. No spam pages or fake permutations.
+- Google Search Console Verification Guide:
+  * HTML Tag verification method `<meta name="google-site-verification" content="..." />`.
+  * DNS TXT record method at domain registrar for `nebulavex.bond`.
+  * Direct submission of `https://nebulavex.bond/sitemap.xml` upon deployment.
+  * URL Inspection Tool for requesting initial crawling.
+  * Explicit reminder: Never claim Google indexing before real verification is confirmed.
+
+
+6. TECHNICAL STACK & ARCHITECTURE RECOMMENDATION
+--------------------------------------------------------------------------------
+- Framework: Next.js 14+ with TypeScript (App Router, Static Site Generation / SSG).
+- Styling: Tailwind CSS paired with Tailwind Typography and custom CSS variable tokens.
+- Motion Engine: Framer Motion / Motion for React (configured with `useReducedMotion`).
+- Data Handling:
+  * High-resilience architecture: All core content (projects, biographies, documentation) 
+    stored in typed local TypeScript/MDX data structures.
+  * Live GitHub API fetching with graceful fallback to cached/static data so the site 
+    remains 100% operational offline, during rate-limits, or in air-gapped environments.
+- Security & Hygiene:
+  * Zero secret leaks: No API keys or credentials in client bundles.
+  * Sanitized headers (Content-Security-Policy, X-Frame-Options, Strict-Transport-Security).
+  * Strict HTML validation and zero console warnings.
+
+
+7. WORKFLOW FOR NEXT PROMPT & IMPLEMENTATION
+--------------------------------------------------------------------------------
+1. Memory & Plan Preservation:
+   - `WYZUK_PERSONAL_DATA.txt` is the permanent verified biographical and project reference.
+   - `WYZUK_WEBSITE_PLAN.txt` is the master architectural plan for the entire website build.
+2. Next Steps Upon Prompting:
+   - Read `WYZUK_PERSONAL_DATA.txt` and `WYZUK_WEBSITE_PLAN.txt` directly to restore context.
+   - Initialize project repository with Next.js, TypeScript, Tailwind CSS, and Motion.
+   - Scaffold the asset directories (`assets/`, `assets/gallery/`).
+   - Implement component architecture, responsive layouts, routes, SEO engine, and gallery discovery.
+   - Perform production build testing, route verification, and accessibility audit.
+
+================================================================================
+END OF WYZUK_WEBSITE_PLAN.TXT
+================================================================================
+

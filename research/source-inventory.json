@@ -1,0 +1,447 @@
+{
+  "retrieval_date": "2026-10-27",
+  "identity": {
+    "primary_public_name": "WYZUK",
+    "aliases": ["Wyzuk", "NebulaVex", "Wasee", "nvxwx", "ud1q", "jamim", "Yumemiro OS"],
+    "country": "Bangladesh",
+    "city": "Rangpur",
+    "education": "Class 11 student in 2026",
+    "college": "PRIVATE - UNDISCLOSED",
+    "interests": [
+      "Coding",
+      "Software development",
+      "Linux system customization",
+      "Operating systems architecture",
+      "Game development & 3D voxel graphics",
+      "Client-side video/audio streaming",
+      "Developer utilities & network tools",
+      "Discord bot architecture"
+    ],
+    "primary_domain": "https://nebulavex.bond"
+  },
+  "sources": [
+    {
+      "source_url": "https://wasee.dev",
+      "status": "308 Permanent Redirect to https://www.wasee.dev/",
+      "type": "Personal Portfolio (React 18 / Vite / Tailwind)",
+      "verified_data": {
+        "title": "Wasee (wyzuk) - Developer and Linux enthusiast.",
+        "display_name": "Wasee (Wyzuk)",
+        "intro_bio": "I am a developer and a Linux enthusiast. I am currently a student, but coding is what I'm truly obsessed with. Programming isn't just a requirement or a major for me—it's my genuine passion, and I do it purely for the joy of creating things.",
+        "email": "onlyjamim@gmail.com",
+        "discord_id": "330355220284571649",
+        "twitter": "https://x.com/w_jamim",
+        "github": "https://github.com/wyzuk",
+        "featured_projects": ["yumemiro-os", "flappy", "yourcraft", "snake", "wyzukcast"]
+      }
+    },
+    {
+      "source_url": "https://api.github.com/users/wyzuk",
+      "status": "200 OK",
+      "type": "GitHub Public API",
+      "verified_data": {
+        "login": "wyzuk",
+        "name": "Wasee",
+        "company": "@yumemiro-os",
+        "public_repos": 25,
+        "followers": 580,
+        "following": 759,
+        "created_at": "2026-01-22T06:13:17Z"
+      }
+    },
+    {
+      "source_url": "https://api.github.com/orgs/yumemiro-os",
+      "status": "200 OK",
+      "type": "GitHub Organization",
+      "verified_data": {
+        "name": "Yumemiro OS",
+        "description": "Yumemiro OS is a beautiful Arch Linux-based operating system focused on performance, elegance, and customization. Built for creators, developers, gamers, and Linux enthusiasts...",
+        "blog": "yumemiro-os.github.io",
+        "public_repos": 2
+      }
+    },
+    {
+      "source_url": "https://yumemiro-os.github.io",
+      "status": "200 OK",
+      "type": "Official OS Showcase Website",
+      "verified_data": {
+        "official_name": "Yumemiro OS",
+        "kanji": "夢見ろ (Dream On)",
+        "founder_credit": "NebuMiro",
+        "base": "Arch Linux",
+        "compositor": "Hyprland (Wayland)",
+        "idle_ram": "sub-650MB",
+        "components": ["Waybar 0.10", "Rofi", "SDDM Frosted Glass", "Calamares Installer", "Pastel Themes", "Kitty Terminal"]
+      }
+    },
+    {
+      "source_url": "https://vaultrix.shop",
+      "status": "200 OK",
+      "type": "Digital Marketplace",
+      "verified_data": {
+        "title": "Vaultrix - Premium Digital Marketplace",
+        "author": "NebulaVex",
+        "purpose": "Digital subscriptions, hosting, and gaming goods storefront."
+      }
+    },
+    {
+      "source_url": "https://jamim.netlify.app",
+      "status": "200 OK",
+      "type": "Legacy Portfolio Bento Box",
+      "verified_data": {
+        "location": "Rangpur, Bangladesh",
+        "status": "Student / Developer",
+        "discord": "4v3h",
+        "reddit": "https://reddit.com/u/onlyjamim",
+        "projects_mentioned": ["WFJ Web", "Nebula AI", "Jamim.tk", "nebula.bolt.host"]
+      }
+    },
+    {
+      "source_url": "https://nebulavex.bond",
+      "status": "Inaccessible over HTTPS (TLS/SSL handshake termination)",
+      "dns_ip": "159.203.143.218",
+      "type": "Designated Primary Production Domain"
+    }
+  ],
+  "verified_repositories": [
+    {
+      "name": "yumemiro-os",
+      "full_name": "wyzuk/yumemiro-os",
+      "html_url": "https://github.com/wyzuk/yumemiro-os",
+      "category": "operating-systems",
+      "language": "Python / Shell / Arch Linux",
+      "stars": 13,
+      "forks": 2,
+      "status": "active",
+      "description": "Yumemiro OS is a beautiful Arch Linux-based operating system focused on performance, elegance, and customization. Built for creators, developers, gamers, and Linux enthusiasts.",
+      "verified_features": [
+        "Hyprland Wayland compositor with fluid cubic animations",
+        "Pastel pink GTK themes and custom icon packs",
+        "Frosted glass SDDM login display manager",
+        "Custom Waybar 0.10 floating popover calendar & volume",
+        "Calamares automated graphical installer scripts",
+        "Archiso automated live image creation scripts"
+      ],
+      "official_project_site": "https://yumemiro-os.github.io"
+    },
+    {
+      "name": "wyzukcast",
+      "full_name": "wyzuk/wyzukcast",
+      "html_url": "https://github.com/wyzuk/wyzukcast",
+      "category": "web",
+      "language": "JavaScript / HLS.js / HTML5",
+      "stars": 5,
+      "forks": 1,
+      "status": "completed",
+      "live_demo": "https://wyzukcast.vercel.app",
+      "description": "Open-source, lightweight IPTV web player with M3U/M3U8 support, channel categories, logos, search, and a clean modern UI.",
+      "verified_features": [
+        "Client-side M3U and M3U8 streaming playback via HLS.js",
+        "Instant category filtering across Entertainment, News, Sports, and Movies",
+        "Fast client search and channel logo rendering",
+        "Native HTML5 Picture-in-Picture (PiP) and full-screen video player modes"
+      ]
+    },
+    {
+      "name": "yourcraft",
+      "full_name": "wyzuk/yourcraft",
+      "html_url": "https://github.com/wyzuk/yourcraft",
+      "category": "games",
+      "language": "JavaScript / Three.js / WebGL",
+      "stars": 9,
+      "forks": 2,
+      "status": "completed",
+      "live_demo": "https://your-craft.netlify.app/",
+      "description": "Minecraft game alike - A procedural 3D voxel sandbox built entirely for modern web browsers.",
+      "verified_features": [
+        "Procedural 3D voxel terrain generation in browser",
+        "Block placing, breaking, and inventory management",
+        "First-person pointer lock controls with collision physics",
+        "Hardware-accelerated WebGL rendering targeting steady 60 FPS"
+      ]
+    },
+    {
+      "name": "flappy",
+      "full_name": "wyzuk/flappy",
+      "html_url": "https://github.com/wyzuk/flappy",
+      "category": "games",
+      "language": "JavaScript / Canvas 2D / Web Audio API",
+      "stars": 9,
+      "forks": 0,
+      "status": "completed",
+      "live_demo": "https://flpybrd.netlify.app/",
+      "description": "Flappy Wyzuk is a modern indie browser game engineered from scratch with vanilla web technologies, neon aesthetics, and Web Audio API synthesis.",
+      "verified_features": [
+        "12 unlockable bird aviator characters",
+        "11 dynamic parallax scrolling worlds with weather effects",
+        "Procedural audio synthesizer using Web Audio API",
+        "60+ FPS responsive canvas physics"
+      ]
+    },
+    {
+      "name": "w",
+      "full_name": "wyzuk/w",
+      "html_url": "https://github.com/wyzuk/w",
+      "category": "games",
+      "language": "JavaScript / Three.js",
+      "stars": 5,
+      "forks": 0,
+      "status": "completed",
+      "description": "W Suffers - A fast-paced 3D endless runner web application built with Three.js and WebGL.",
+      "verified_features": [
+        "Procedural 3D urban environment generation",
+        "Lane switching, obstacle jumping, and sliding mechanics",
+        "Coin collection and power-up system"
+      ]
+    },
+    {
+      "name": "snake",
+      "full_name": "wyzuk/snake",
+      "html_url": "https://github.com/wyzuk/snake",
+      "category": "games",
+      "language": "JavaScript / Canvas",
+      "stars": 7,
+      "forks": 0,
+      "status": "completed",
+      "description": "Modern retro-style Snake arcade game with level progression, obstacles, and different environments."
+    },
+    {
+      "name": "wtools",
+      "full_name": "wyzuk/wtools",
+      "html_url": "https://github.com/wyzuk/wtools",
+      "category": "software",
+      "language": "TypeScript / Next.js 14 / Tailwind CSS",
+      "stars": 4,
+      "forks": 0,
+      "status": "completed",
+      "description": "A modern developer utility platform featuring 35+ real network, domain, web, security, geolocation, and developer tools.",
+      "verified_features": [
+        "35+ utilities across DNS, IP geolocation, SSL diagnostics, and HTTP headers",
+        "Command palette navigation (Cmd+K / Ctrl+K)",
+        "Zero-logging client & edge execution"
+      ]
+    },
+    {
+      "name": "nexus",
+      "full_name": "wyzuk/nexus",
+      "html_url": "https://github.com/wyzuk/nexus",
+      "category": "software",
+      "language": "Python 3.11 / Next.js 14 / FastAPI / Docker",
+      "stars": 2,
+      "forks": 0,
+      "status": "active",
+      "description": "Local network intelligence and defensive operations platform for authorized home lab monitoring.",
+      "verified_features": [
+        "Automated subnet device discovery",
+        "Hierarchical network topology mapping",
+        "TCP port and banner inspection",
+        "Latency tracking and alerting"
+      ]
+    },
+    {
+      "name": "ttune",
+      "full_name": "wyzuk/ttune",
+      "html_url": "https://github.com/wyzuk/ttune",
+      "category": "software",
+      "language": "Python 3.9+ / FFmpeg / Curses",
+      "stars": 5,
+      "forks": 0,
+      "status": "completed",
+      "description": "A terminal music and video player with real-time RGB spectrum visualizer supporting all major audio and video containers.",
+      "verified_features": [
+        "Real-time RGB spectrum visualizer in terminal console",
+        "Wide container support (MP3, MP4, FLAC, OGG, WebM, MKV, etc.)",
+        "Interactive TUI keybindings"
+      ]
+    },
+    {
+      "name": "ttune-web",
+      "full_name": "wyzuk/ttune-web",
+      "html_url": "https://github.com/wyzuk/ttune-web",
+      "category": "web",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 1,
+      "status": "active",
+      "description": "Listen music of Bangla Cinema - Specialized web audio player for Bengali film soundtrack streams."
+    },
+    {
+      "name": "animella",
+      "full_name": "wyzuk/animella",
+      "html_url": "https://github.com/wyzuk/animella",
+      "category": "web",
+      "language": "TypeScript / Next.js / Tailwind CSS",
+      "stars": 1,
+      "forks": 0,
+      "status": "completed",
+      "description": "Modern Japanese anime discovery platform featuring 50 iconic anime series, high-res posters, banners, and 296 character portraits."
+    },
+    {
+      "name": "vlt",
+      "full_name": "wyzuk/vlt",
+      "html_url": "https://github.com/wyzuk/vlt",
+      "category": "software",
+      "language": "Python / discord.py",
+      "stars": 5,
+      "forks": 1,
+      "status": "completed",
+      "description": "Discord Shop Management Bot using Discord Components V2, moderation commands, giveaways, audit logs, and interactive shop panels."
+    },
+    {
+      "name": "shop",
+      "full_name": "wyzuk/shop",
+      "html_url": "https://github.com/wyzuk/shop",
+      "category": "experiments",
+      "language": "Python",
+      "stars": 4,
+      "forks": 0,
+      "status": "experiment",
+      "description": "Python shop automation script."
+    },
+    {
+      "name": "host",
+      "full_name": "wyzuk/host",
+      "html_url": "https://github.com/wyzuk/host",
+      "category": "experiments",
+      "language": "Python",
+      "stars": 4,
+      "forks": 0,
+      "status": "experiment",
+      "description": "Discord bot hosting script."
+    },
+    {
+      "name": "nebula",
+      "full_name": "wyzuk/nebula",
+      "html_url": "https://github.com/wyzuk/nebula",
+      "category": "software",
+      "language": "Python",
+      "stars": 4,
+      "forks": 0,
+      "status": "completed",
+      "description": "Discord bot with modular cogs architecture."
+    },
+    {
+      "name": "nebula-bot",
+      "full_name": "wyzuk/nebula-bot",
+      "html_url": "https://github.com/wyzuk/nebula-bot",
+      "category": "experiments",
+      "language": "Python",
+      "stars": 4,
+      "forks": 0,
+      "status": "experiment",
+      "description": "Python Discord automation bot."
+    },
+    {
+      "name": "nebula-os",
+      "full_name": "wyzuk/nebula-os",
+      "html_url": "https://github.com/wyzuk/nebula-os",
+      "category": "experiments",
+      "language": "Python",
+      "stars": 4,
+      "forks": 0,
+      "status": "experiment",
+      "description": "Discord server management bot."
+    },
+    {
+      "name": "iplnchr",
+      "full_name": "wyzuk/iplnchr",
+      "html_url": "https://github.com/wyzuk/iplnchr",
+      "category": "experiments",
+      "language": "JavaScript / CSS3 / HTML5",
+      "stars": 4,
+      "forks": 0,
+      "status": "experiment",
+      "description": "A high-fidelity interactive iPhone simulator for the web, inspired by iOS 26."
+    },
+    {
+      "name": "ixnit",
+      "full_name": "wyzuk/ixnit",
+      "html_url": "https://github.com/wyzuk/ixnit",
+      "category": "experiments",
+      "language": "JavaScript / Markdown",
+      "stars": 4,
+      "forks": 0,
+      "status": "active",
+      "description": "Personal coding notebook, experiment sandbox, and developer knowledge base."
+    },
+    {
+      "name": "idk",
+      "full_name": "wyzuk/idk",
+      "html_url": "https://github.com/wyzuk/idk",
+      "category": "experiments",
+      "language": "HTML5 / JavaScript",
+      "stars": 5,
+      "forks": 0,
+      "status": "experiment",
+      "description": "VOID: A tiny experimental web project built around a fictional digital fortune machine."
+    },
+    {
+      "name": "portfolio",
+      "full_name": "wyzuk/portfolio",
+      "html_url": "https://github.com/wyzuk/portfolio",
+      "category": "experiments",
+      "language": "TypeScript",
+      "stars": 5,
+      "forks": 0,
+      "status": "archived",
+      "description": "Legacy portfolio iteration."
+    },
+    {
+      "name": "wyzuk.github.io",
+      "full_name": "wyzuk/wyzuk.github.io",
+      "html_url": "https://github.com/wyzuk/wyzuk.github.io",
+      "category": "experiments",
+      "language": "CSS",
+      "stars": 4,
+      "forks": 0,
+      "status": "archived",
+      "description": "GitHub Pages repository."
+    },
+    {
+      "name": "wyzuk",
+      "full_name": "wyzuk/wyzuk",
+      "html_url": "https://github.com/wyzuk/wyzuk",
+      "category": "experiments",
+      "language": "Markdown",
+      "stars": 6,
+      "forks": 0,
+      "status": "completed",
+      "description": "GitHub special profile README repository."
+    },
+    {
+      "name": "yumemiro",
+      "full_name": "wyzuk/yumemiro",
+      "html_url": "https://github.com/wyzuk/yumemiro",
+      "category": "experiments",
+      "language": "None",
+      "stars": 4,
+      "forks": 0,
+      "status": "empty",
+      "description": "Empty repository stub."
+    },
+    {
+      "name": "blah",
+      "full_name": "wyzuk/blah",
+      "html_url": "https://github.com/wyzuk/blah",
+      "category": "experiments",
+      "language": "None",
+      "stars": 2,
+      "forks": 0,
+      "status": "empty",
+      "description": "Placeholder test repository."
+    }
+  ],
+  "gallery_assets": [
+    "assets/gallery/1113b573-f886-48f0-a5c3-eb8a6d913945.png",
+    "assets/gallery/16a430b6-240e-4b95-ba8c-c9165af02aea.png",
+    "assets/gallery/20ed65d3-ee33-443b-9e0e-8519521ef317.png",
+    "assets/gallery/3b480c24-8922-4341-b43e-adede1958932.png",
+    "assets/gallery/40eb2f8f-58f6-4a0d-87d9-7a243512b703.png",
+    "assets/gallery/48f936cc-9657-40d7-bde9-05bdbf22ca1c.png",
+    "assets/gallery/6eb8e095-a0fa-45d9-8d0f-ccd1784dfa8a.png",
+    "assets/gallery/ab9dff62-d565-4623-bf8f-2bf123db05e7.png",
+    "assets/gallery/b52ee543-b921-49d0-bd01-6908e4c3dd83.png",
+    "assets/gallery/fb45f857-46e3-4d2f-a3fd-ff1d34167be5.png",
+    "assets/gallery/image (1).webp"
+  ]
+}
