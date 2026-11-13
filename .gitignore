@@ -12,6 +12,7 @@ out/
 
 # Production
 build/
+*.tsbuildinfo
 
 # Misc
 .DS_Store
